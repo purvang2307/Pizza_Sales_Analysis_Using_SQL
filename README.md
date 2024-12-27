@@ -31,3 +31,7 @@ The project uses the following datasets:
 2. **Pizza Types.csv**: Includes pizza categories and names
 3. **Orders.csv**: Holds information about order IDs and timestamps  
 4. **Order Details.csv**: Tracks quantities and pizza types for each order  
+
+This repository includes :
+1. **pizza.sql** : This contains sql queries.
+2. **Pizza Sales Analysis Using SQL.pptx** : This is the prdentation which contains the summarized information of this analysis.
